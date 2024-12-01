@@ -32,7 +32,7 @@ Clique no botão Go (Ir) para importar o ficheiro SQL para a base de dados.
 Isso irá criar todas as tabelas e dados necessários para o funcionamento do seu sistema.
 
 
-##Passo 3: Configuração Final
+## Passo 3: Configuração Final
 Verificar a conexão com a base de dados:
 Abra o seu navegador e aceda a http://localhost/Scope.
 Verifique se o sistema está a funcionar corretamente.

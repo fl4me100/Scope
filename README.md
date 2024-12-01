@@ -6,13 +6,13 @@ Obrigado por se interessar no meu projeto! Scope é um site sobre informações 
 Este projeto requer o XAMPP e o phpMyAdmin para funcionar corretamente. Siga os passos abaixo para configurar o ambiente local e importar a base de dados.
 
 Passo 1: Colocar os ficheiros na pasta htdocs do XAMPP
-Instale o XAMPP: Se ainda não tiver o XAMPP instalado, pode fazer o download em https://www.apachefriends.org/pt_br/index.html.
+Instale o XAMPP: Se ainda não tiver o XAMPP instalado, pode fazer o download em https://www.apachefriends.org/download.html
 Inicie o XAMPP: Abra o XAMPP e inicie os serviços do Apache e MySQL.
 Coloque os ficheiros na pasta htdocs:
 Localize a pasta onde o XAMPP foi instalado (geralmente C:\xampp).
 Navegue até a pasta htdocs dentro da pasta XAMPP.
 Copie todos os ficheiros do projeto para dentro da pasta htdocs.
-Exemplo: C:\xampp\htdocs\nome_do_projeto.
+Exemplo: C:\xampp\htdocs\Scope.
 Passo 2: Importar o ficheiro SQL para o phpMyAdmin
 Aceda ao phpMyAdmin:
 Abra o seu navegador e aceda a http://localhost/phpmyadmin.
@@ -28,6 +28,6 @@ Clique no botão Go (Ir) para importar o ficheiro SQL para a base de dados.
 Isso irá criar todas as tabelas e dados necessários para o funcionamento do seu sistema.
 Passo 3: Configuração Final
 Verificar a conexão com a base de dados:
-Abra o seu navegador e aceda a http://localhost/nome_do_projeto.
+Abra o seu navegador e aceda a http://localhost/Scope.
 Verifique se o sistema está a funcionar corretamente.
-Se tudo correr bem, deverá ver a página inicial do seu projeto. Caso tenha algum erro relacionado com a base de dados, verifique se as configurações de conexão no seu código (nome da base de dados, utilizador e senha) estão corretas.
+Se tudo correr bem, deverá ver a página inicial do projeto. Caso tenha algum erro relacionado com a base de dados, verifique se as configurações de conexão no seu código (nome da base de dados, utilizador e senha) estão corretas.

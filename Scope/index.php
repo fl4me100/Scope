@@ -11,7 +11,6 @@
 <body>
 <?php session_start();
         if (isset($_POST["login"])) {
-          ?><script>console.log("bot")</script><?php
            $email = $_POST["email"];
            $password = $_POST["password"];
            ?>

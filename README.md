@@ -1,4 +1,4 @@
-#Agradecimentos
+# Agradecimentos
 
 Obrigado por se interessar no meu projeto! Scope é um site sobre informações de filmes bastante fácil de usar e com um design minimalista.
 
